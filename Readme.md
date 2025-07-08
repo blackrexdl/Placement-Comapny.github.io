@@ -1,5 +1,3 @@
-
-
 # 📘 PlacementHub - Static Landing Page
 
 This project is a **static placement-focused website** developed by **Shubu**, designed to help colleges and training partners showcase student hiring opportunities and highlight placement success stories.
@@ -40,6 +38,40 @@ You can now explore or customize the website freely.
 - To represent a professional **placement platform** where institutions can feature student success.
 - Built using **HTML**, **Vanilla CSS**, and minimal **JavaScript**.
 - All content is designed to be responsive and accessible across all screen sizes.
+
+---
+
+## 📸 Screenshots
+
+> Below are some preview screenshots of the PlacementHub website pages:
+
+### 🏠 1. Home
+![Home Page](https://cvws.icloud-content.com/B/AZ-BYYZ956u-yQX_E4KMwWnzHvD1Ac25YimAmLJbKIduXA2m6-2IR2rC/Screenshot+2025-07-08+at+8.38.07%E2%80%AFPM.png)
+
+---
+
+### 🗂️ 2. Portfolio
+![Portfolio Page](https://cvws.icloud-content.com/B/AZmZFs4sM7k_mMtxIqqL-KK_pQfsATmDgzfnqflhIIH5Q-0Kwu7IXEax/Screenshot+2025-07-08+at+8.38.24%E2%80%AFPM.png)
+
+---
+
+### 🖼️ 3. Gallery
+![Gallery Page](https://cvws.icloud-content.com/B/AXrysZc5VfQLt0P02F8cXHW3eJsjAbeCd4OBuoIIqZ9LZRDmGALRTEGg/Screenshot+2025-07-08+at+8.38.45%E2%80%AFPM.png)
+
+---
+
+### 🏢 4. Exhibitions
+![Exhibitions Page](https://cvws.icloud-content.com/B/AWsztO-dxq22howr-haU3gAikp5SATMo4ZFW9N0ol9AygEMv7vxKdP-7/Screenshot+2025-07-08+at+8.38.53%E2%80%AFPM.png)
+
+---
+
+### 👥 5. About
+![About Page](https://cvws.icloud-content.com/B/AddzCh5Ts5uC6c-MK_fEVokc9NNaAalD9iEwrR5h0kl40ZyKeC85GkYK/Screenshot+2025-07-08+at+8.39.05%E2%80%AFPM.png)
+
+---
+
+### 📰 6. Blog
+![Blog Page](https://cvws.icloud-content.com/B/Ae7nMXZtEbLA1HYIqZCz9btlPrj0Ad0yqEESZ7ipPo9kmWimVFHsmxxc/Screenshot+2025-07-08+at+8.39.18%E2%80%AFPM.png)
 
 ---
 
